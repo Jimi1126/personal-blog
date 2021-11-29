@@ -29,7 +29,7 @@
     "lodash": "^4.17.15",
     "log4js": "^6.1.0",
     "marked": "^0.8.0",
-    "mavon-editor": "^2.7.6",
+    "mavon-editor": "^2.8.2",
     "mkdirp": "^0.5.1",
     "moment": "^2.24.0",
     "moment-locales-webpack-plugin": "^1.1.2",
